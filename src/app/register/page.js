@@ -67,13 +67,6 @@ export default function RegisterPage() {
             ))}
           </div>
         </div>
-
-        <div className="relative bg-[#A8D900]/10 border border-[#A8D900]/20 rounded-2xl p-5">
-          <p className="text-[#A8D900] font-semibold text-sm mb-1">Sabia que...</p>
-          <p className="text-white/60 text-xs leading-relaxed">
-            Comprar uma peça de roupa usada economiza em média 3,6 kg de CO₂ — equivalente a não dirigir por 14 km.
-          </p>
-        </div>
       </div>
 
       <div className="flex-1 flex items-center justify-center bg-[#F8F7FF] px-6 py-12 overflow-y-auto">
